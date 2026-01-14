@@ -57,7 +57,7 @@ Metrics used:
 - Root Mean Squared Error (RMSE)
 
 ## Result
-
+Used model: RandomForestRegressor with 2.5% of error accuracy.
 The model successfully captures the relationship between vehicle specifications and price.
 Features like year, mileage, make, engine type, and drivetrain have a strong influence on price.
 
