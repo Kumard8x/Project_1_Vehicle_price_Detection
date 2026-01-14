@@ -5,7 +5,9 @@ The goal of this project is pridicting the vehicles price based on their specifi
 This helps understand what factor influence the vehicle prices and build a reliable price prediction system using machine learning.
 
 ## How to access the Vehicle price prediction app
-Copy the below link and open in web browser to get access.
+Click one below link.
+
+Note: if app is sleeping. Please click on `Yes, Get this app back up`
 
 Vehicle price prediction app: https://project1vehiclepricedetection.streamlit.app/ 
 
